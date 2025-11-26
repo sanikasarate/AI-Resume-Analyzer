@@ -1,0 +1,6 @@
+Jane Smith
+jane.smith@example.com
++91 9123456789
+Skills: Machine Learning, AI, Excel
+Education: M.Tech in Computer Science
+Experience: 3 years as ML Engineer

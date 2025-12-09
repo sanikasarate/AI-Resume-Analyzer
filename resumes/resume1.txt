@@ -1,0 +1,6 @@
+John Doe
+john.doe@example.com
++91 9876543210
+Skills: Python, Java, SQL
+Education: B.Tech in AI & Data Science
+Experience: 2 years as Data Analyst
